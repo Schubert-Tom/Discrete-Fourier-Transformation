@@ -1,0 +1,6 @@
+**.Ds_Store
+.ipynb_checkpoints
+.vs_code
+
+build/
+__pycache__/
