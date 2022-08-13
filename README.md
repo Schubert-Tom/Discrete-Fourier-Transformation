@@ -596,7 +596,7 @@ interact(intervall_idft,intervall=widgets.IntRangeSlider(
   <img src="https://user-images.githubusercontent.com/64316635/184501946-22ed06ae-e9e8-4d2c-a66d-ba55dfd35f6c.png" alt="Something is wrong"/>
 </p>
 
-Das synthetisierte Signale zum anhören:
+Das synthetisierte Signal mit eingeschänktem Frequenzintervall zum anhören:
 
 https://user-images.githubusercontent.com/64316635/184502126-6a760fde-d921-4d89-9ecd-3902807f7cfa.mp4
 
