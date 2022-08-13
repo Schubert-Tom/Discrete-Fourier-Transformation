@@ -5,14 +5,16 @@ Implementierung eines Python-Notebooks, das für ein zu ladendes Signal eine dis
 Im Projekt werden sowohl einfache, als auch komplexe Signale mit verschiedenen Implementierungen transformiert und im Anschluss rücktransformiert. Die Differenz zwischen Eingangs-und  und Ausgangssignal wird visualisiert und kann durch verschiedene Tonbeispiele
 und Filtereinstellungen wahrgenommen werden.
 
-Das folgende Darstellung des Jupyter Notebooks ist lediglich demonstrativ und nicht funktional. Zum Testen kann das Jupyter Notebook heruntergeladen und gestartet werden.
+Zudem wird der Code und die mathemtaische Grundlage der Fouriertransformation erklärt und demonstriert.
 
-# Installation
+Die folgende Darstellung des Jupyter Notebooks ist lediglich demonstrativ und nicht funktional. Zum Testen kann das Jupyter Notebook heruntergeladen und gestartet werden.
+
+# Ausführen
 
  1. Repository clonen oder im Zip-Format herunterladen
  2. In den Repository-Ordner wechseln
- 3. Requirements installieren `pip install -r requirements.txt`
- 4. Notebook im Ordner 'Notebook' ausführen
+ 3. Requirements installieren: `pip install -r requirements.txt`
+ 4. Im Ordner [notebook](/notebook) den Server starten: `jupyter notebook`
 
 # Jupyter Notebook
 
