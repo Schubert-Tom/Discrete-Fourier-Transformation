@@ -9,7 +9,7 @@ Zudem wird der Code und die mathemtaische Grundlage der Fouriertransformation er
 
 Die folgende Darstellung des Jupyter Notebooks ist lediglich demonstrativ und nicht funktional. Zum Testen kann das Jupyter Notebook heruntergeladen und gestartet werden.
 
-# Ausführen
+# Installation
 
  1. Repository clonen oder im Zip-Format herunterladen
  2. In den Repository-Ordner wechseln
