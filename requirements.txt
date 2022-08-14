@@ -1,0 +1,9 @@
+ipykernel
+ipython
+notebook
+numpy
+matplotlib
+ipykernel
+ipython
+ipywidgets
+scipy
